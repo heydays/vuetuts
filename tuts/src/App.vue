@@ -25,9 +25,9 @@ export default {
     color: #2c3e50;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
     .container {
-      padding: 0 15px;
+      padding: 0 15px !important;
     }
   }
 </style>
